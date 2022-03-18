@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whijhar
-- 👀 I’m interested in cryptocurrency and the blockchain. 
-- 🌱 I’m currently learning web 3 and smart contracs. 
+- 👀 I’m interested in everything web 3. 
+- 🌱 I’m currently a smart contract engineer and blockchain developer. 
 - 💞️ I’m looking to collaborate on an nft project.
 - 📫 How to reach me: whitney.harbour@gmail.com
 
