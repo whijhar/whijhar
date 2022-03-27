@@ -1,5 +1,4 @@
- **MOTHER. CREATOR. DEVELOPER. MULTITASKING EXTRAORDINAIRE.**
-![womens-day-women](https://user-images.githubusercontent.com/98197972/160264681-6133e551-a179-4fa6-8972-c2e6a36ba6bb.gif)
+**MOTHER. CREATOR. DEVELOPER. MULTITASKING EXTRAORDINAIRE.**![womens-day-women](https://user-images.githubusercontent.com/98197972/160264681-6133e551-a179-4fa6-8972-c2e6a36ba6bb.gif)
 -  👋 Hi, I’m @whijhar. Here's my [website](https://www.cryptwithwhit.com)
 - 👀 I’m interested in everything web 3. 
 - 🌱 I’m currently a smart contract engineer and blockchain developer. I am experienced in Solidity, Visual Studio Code, Node.js, truffle, hardhat, Next.js, Ether,js, and React. I familiar with various languages including C++, CSS, Go, Python, Java, & HTML.
