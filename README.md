@@ -1,4 +1,4 @@
-**MOTHER. CREATOR. DEVELOPER. MULTITASKING EXTRAORDINAIRE.**
+ **MOTHER. CREATOR. DEVELOPER. MULTITASKING EXTRAORDINAIRE.**
 ![womens-day-women](https://user-images.githubusercontent.com/98197972/160264681-6133e551-a179-4fa6-8972-c2e6a36ba6bb.gif)
 -  👋 Hi, I’m @whijhar. Here's my [website](https://www.cryptwithwhit.com)
 - 👀 I’m interested in everything web 3. 
