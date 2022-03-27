@@ -1,4 +1,4 @@
-**MOTHER. CREATOR. DEVELOPER. MULTITASKING EXTRAORDINAIRE.**![womens-day-women](https://user-images.githubusercontent.com/98197972/160264681-6133e551-a179-4fa6-8972-c2e6a36ba6bb.gif)
+**MOTHER. CREATOR. DEVELOPER. MULTITASKER EXTRAORDINAIRE.**![womens-day-women](https://user-images.githubusercontent.com/98197972/160264681-6133e551-a179-4fa6-8972-c2e6a36ba6bb.gif)
 -  👋 Hi, I’m Whitney. Here's my [website](https://www.cryptwithwhit.com)
 - 👀 I’m interested in everything web 3. 
 - 🌱 I’m currently a Certified Cryptocurrency Expert, Crypto Educator, Smart Contract Engineer and NFT developer. I am experienced in Solidity, Visual Studio Code, Node.js, truffle, hardhat, Next.js, Ether,js, and React. I'm familiar with various languages including C++, CSS, Go, Python, Java, & HTML.
